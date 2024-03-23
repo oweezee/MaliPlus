@@ -38,7 +38,7 @@ Popup of product is added to cart is shown when click on Ecommerce logo (soon i 
 Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
     
-## Customer InterfaceCustomer
+## Customer Interface
 Customer can view/search products without login.
 Customer can also add/remove product to cart without login (if customer try to add same product in cart. It will add only one)
 When customer try to purchase product, then he/she must login to system.
