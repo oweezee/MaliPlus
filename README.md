@@ -66,3 +66,11 @@ suppose 1 customer places 4 products order and admin deleted 2 product from webs
 
 If user click on purchase button without having products in their cart, then website will ask to add product in cart first.
 ## Screenshots
+
+![Screenshot 2024-03-23 044808](https://github.com/oweezee/MaliPlus/assets/35451820/40112e13-de28-4911-95d9-d9a59505c6ea)
+![Screenshot 2024-03-23 044834](https://github.com/oweezee/MaliPlus/assets/35451820/db672e9f-ed78-4574-91e6-cb12d1c88475)
+![Screenshot 2024-03-23 044941](https://github.com/oweezee/MaliPlus/assets/35451820/795b6106-dd9c-4ceb-99fb-744cc042e623)
+![Screenshot 2024-03-23 045051](https://github.com/oweezee/MaliPlus/assets/35451820/490c2fc3-914e-4fbb-901b-4f74925c1f21)
+![Uploading Screenshot 2024-03-23 045114.png…]()
+![Screenshot 2024-03-23 045345](https://github.com/oweezee/MaliPlus/assets/35451820/0f22de5e-b897-408f-a1e4-584b39fdef17)
+![Screenshot 2024-03-23 045831](https://github.com/oweezee/MaliPlus/assets/35451820/b7186231-b0ce-4662-b42f-b235226b78aa)
